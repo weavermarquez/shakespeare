@@ -17,5 +17,5 @@ GitHub also provides an introduction to [contribution guidelines](https://docs.g
 You can read our contribution guidelines [here](./CONTRIBUTING.md).
 
 ## How do I join this play?
-If you want to contribute, please check out CONTRIBUTE.md!
+If you want to contribute, please check out [CONTRIBUTE.md](./CONTRIBUTING.md)!
 
