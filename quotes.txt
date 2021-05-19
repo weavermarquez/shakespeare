@@ -1,3 +1,6 @@
 Make food, not war.
 Tea and Tea
+A great Git comit subject line completes the following sentence:
+"If applied, this commit will: <message> "
+Use the imperative, present tense. "Change", not "changed" nor "changes".
 
